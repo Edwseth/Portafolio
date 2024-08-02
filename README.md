@@ -5,9 +5,9 @@ Bienvenido a mi portafolio, donde muestro mi experiencia, expectativas profesion
 ## Página Principal (Home)
 En la página principal, encontrarás un resumen de mi experiencia y expectativas profesionales. También he incluido enlaces a mis redes sociales:
 
-- [LinkedIn](ttps://www.linkedin.com/in/yusethserrano/")
+- [LinkedIn](ttps://www.linkedin.com/in/yusethserrano/)
 - [GitHub](https://github.com/Edwseth)
-- [Instagram](https://www.instagram.com/edwin.serrano.756/")
+- [Instagram](https://www.instagram.com/edwin.serrano.756/)
 
 ## Sobre Mí
 En esta sección, comparto información más detallada sobre mí, incluyendo mis intereses, habilidades y el camino que he recorrido en mi carrera.
